@@ -1,0 +1,1 @@
+ui.soutenance.SoutenanceCalendarPanel
